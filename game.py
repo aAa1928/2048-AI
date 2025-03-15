@@ -1,7 +1,7 @@
 from copy import deepcopy
 from pprint import pp
 from random import choice, random
-from typing import Literal, Union, Optional, List
+from typing import Literal, Optional, List
 
 DirectionType = Literal['up', 'down', 'left', 'right']
 
